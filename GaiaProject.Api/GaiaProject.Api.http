@@ -1,0 +1,6 @@
+@GaiaProject.Api_HostAddress = http://localhost:5287
+
+GET {{GaiaProject.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
